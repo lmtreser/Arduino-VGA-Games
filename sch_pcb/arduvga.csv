@@ -1,0 +1,18 @@
+"Source:","/home/lucas/Downloads/1sch_brd/arduvga.kicad_sch"
+"Date:","mar 09 ene 2024 11:10:10"
+"Tool:","Eeschema 7.0.10-7.0.10~ubuntu23.10.1"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","17"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP"
+"1","1","A1","Arduino UNO R3","MCU_Module:Arduino_UNO_R3","Module:Arduino_UNO_R3","https://www.arduino.cc/en/Main/arduinoBoardUno",""
+"2","2","J1, J3","Conn_01x04_Socket","Connector:Conn_01x04_Socket","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~",""
+"3","2","J2, J4","Conn_01x04_Pin","Connector:Conn_01x04_Pin","","~",""
+"4","1","J5","DSUB15","Connector:DB15_Female_HighDensity_MountingHoles","Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm"," ~",""
+"5","2","R1, R4","68","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~",""
+"6","3","R2, R3, R7","470","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~",""
+"7","2","R5, R6","1k8","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~",""
+"8","2","RV1, RV2","10k","Device:R_Potentiometer","","~",""
+"9","2","SW1, SW2","Push","Switch:SW_Push","","~",""
