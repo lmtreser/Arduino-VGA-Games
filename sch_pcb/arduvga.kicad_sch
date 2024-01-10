@@ -1337,6 +1337,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid be32eff5-ce56-44d7-a9a5-48d6423bca27)
   )
+  (text "R7: no se utiliza con los firmware \"Arduino_VGA_Game.ino\" y \"VGAX_Bomber_v01.ino\"."
+    (at 53.34 130.81 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ed8989cd-f046-4e5c-bf6a-7c1dc5b25a28)
+  )
 
   (symbol (lib_id "Device:R") (at 92.71 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
