@@ -2,7 +2,11 @@
 
 Implementación de video juegos mediante la biblioteca VGAx de Arduino, un trabajo de [@Rob+Cai](https://www.instructables.com/member/Rob+Cai/).
 
-![Primeras pruebas](./docs/img/933af5e730127870.jpg)
+## Algunas fotos del primer prototipo
+
+![](./docs/img/1b23cc0abb330985.jpg)
+![](./docs/img/202c77843d42b91a.jpg)
+![](./docs/img/933af5e730127870.jpg)
 
 ## Recursos
 
