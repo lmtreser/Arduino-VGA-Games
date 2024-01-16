@@ -1,1 +1,0 @@
-linear_extrude(height=1) text("12", font="Arial:Bold", size=14);
