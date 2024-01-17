@@ -1,12 +1,13 @@
 # Arduino VGA Games
 
-Implementación de video juegos mediante la biblioteca VGAx de Arduino, un trabajo de [@Rob+Cai](https://www.instructables.com/member/Rob+Cai/).
+Implementación de video juegos mediante la biblioteca VGAx de Arduino, un trabajo de [@Rob+Cai](https://www.instructables.com/member/Rob+Cai/). En el foro de Arduino hay un hilo ["Arduino color game (Bomber) using VGA library"](https://forum.arduino.cc/t/arduino-color-game-bomber-using-vga-library/316899) con más información y distintas versiones de juegos.
 
 ## Algunas fotos del primer prototipo
 
 ![](./docs/img/1b23cc0abb330985.jpg)
 ![](./docs/img/202c77843d42b91a.jpg)
 ![](./docs/img/933af5e730127870.jpg)
+![](./docs/img/img20240116205208316.jpg)
 
 ## Recursos
 
