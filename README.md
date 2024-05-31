@@ -6,6 +6,8 @@ Uno de los juegos incluidos es [Pong! de Atari](https://es.wikipedia.org/wiki/Po
 
 ## Algunas fotos del primer prototipo
 
+![](./docs/img/vista_superior.png)
+![](./docs/img/vista_inferior.png)
 ![](./docs/img/1b23cc0abb330985.jpg)
 ![](./docs/img/202c77843d42b91a.jpg)
 ![](./docs/img/933af5e730127870.jpg)
